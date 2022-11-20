@@ -1,1 +1,9 @@
-# First_ymal
+yaml.load('''
+Monday
+Tuesday
+Wednesday
+Thusrday
+Friday
+Saturday
+Sunday
+''')
